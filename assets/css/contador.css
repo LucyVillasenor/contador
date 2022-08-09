@@ -1,0 +1,44 @@
+body{
+    background-color: #cecece;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-size:50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-emphasis: circle;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+#decrementar{
+    background-color: blue;
+    color: #ffffff;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#incrementar{
+    background-color: green;
+    color: #ffffff;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#resetear{
+    background-color: red;
+    color: #ffffff;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+}
